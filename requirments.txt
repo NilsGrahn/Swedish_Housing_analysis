@@ -1,0 +1,6 @@
+pandas
+plotly
+requests
+requests-cache
+nbformat
+statsmodels
