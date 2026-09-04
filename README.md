@@ -1,4 +1,5 @@
 6. Key Findings
+
 Nominella småhuspriser steg de flesta år 2005–2025, med två tydliga undantag: 2012 (-1,3%) och 2023 (-10,0%), samt ett platt år (2018). Notera att detta är nominellt — 2022 steg indexet 4,5% medan KPIF-inflationen låg nära 8%, så realt föll priserna det året.
 
 Ingen tydlig transmissionslag kan fastställas med detta underlag. Korrelationen mellan nivåerna blir starkare ju längre lag man testar inom det intervall som undersöks här (lag 1–4 år, starkast vid lag 3: r = -0,72). Eftersom både prisindex och styränta trendar kraftigt över perioden (uppåt respektive nedåt) kan detta lika gärna spegla att två trender råkar peka åt varsitt håll, som en verklig fördröjningseffekt. Med bara ~20 årsobservationer går det inte att skilja de två förklaringarna åt utifrån denna analys ensam.
